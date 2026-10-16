@@ -194,10 +194,11 @@ def forest(coefs: pd.DataFrame) -> None:
                     fmt=mk, color=c, markersize=7, capsize=3, linewidth=1.6, label=name)
     ax.axvline(1, color=TEXT2, linewidth=1)
     ax.set_xscale("log")
-    ticks = [0.5, 0.67, 0.8, 1, 1.25, 1.5, 2]
+    ticks = [0.5, 0.67, 0.8, 1, 1.25, 1.5, 2, 3]
     ax.set_xticks(ticks)
     ax.set_xticklabels([str(t) for t in ticks])
     ax.minorticks_off()
+    ax.set_xlim(0.2, 6.5)
     ax.set_yticks(np.arange(n)[::-1])
     ax.set_yticklabels([f"{LABEL[v]}  [{HYP[v]}]" for v in XN], fontsize=9)
     ax.grid(axis="y", visible=False)
