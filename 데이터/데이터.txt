@@ -1,0 +1,36 @@
+- 데이터 링크(직접 다운 받는게 나을듯)
+    
+    https://www.data.go.kr/data/15083033/fileData.do → 2020년부터 3개월 단위로 정확한 상표명과 위치 등 확인가능 이걸로 독서실이 얼마나 지속되었는지 어느 위치 및 어느 층 수가 적당한지도 판단 가능  **주기성 과거 데이터 로 데이터 다운 필요** 단 주기가 3개월이라 ****텀이 좀 긴게 단점
+    전국기준이라 서울 데이터를 따로 뺴야 → 자치구 행정동 데이터 다 있음
+    
+    https://www.data.go.kr/data/15061118/fileData.do →시군구ㄹ 세분화돼서 간접 독서실 폐업률 확인 가능 당월 전월 차이로 1개월 마다 폐업을 하였는지 확인가능 1개월 단위라 **주기성 과거 데이터 로 데이터 다운 필요** 
+    
+    **행정동⊂자치구**
+    
+    https://data.seoul.go.kr/dataList/OA-22182/S/1/datasetView.do#→ 2021년 이후로 서울 자치구 상주인원이 연령별 성별로 나뉘고  분기마다 업데이트 된다 
+    
+    https://data.seoul.go.kr/dataList/OA-22183/S/1/datasetView.do→ 행정동 기준임 위 데이터중 더 나은걸로 하
+    
+    https://data.seoul.go.kr/dataList/OA-22184/S/1/datasetView.do
+    
+    https://data.seoul.go.kr/dataList/OA-22185/S/1/datasetView.do
+    
+    https://data.seoul.go.kr/dataList/OA-22179/S/1/datasetView.do →유동인
+    
+    https://data.seoul.go.kr/dataList/OA-22178/S/1/datasetView.do 
+    
+    https://data.seoul.go.kr/dataList/OA-15575/S/1/datasetView.do→ 상권이 축소인지 정체인지 다이나믹인지(이건 모르겠음) 상권확장등이 적혀있음
+    
+    https://data.seoul.go.kr/dataList/OA-15567/S/1/datasetView.do
+    
+    https://data.seoul.go.kr/dataList/OA-22167/S/1/datasetView.do→ 지역에 교육 지출 지출 총 금액등 그 지역에 쓰인 금액이 적혀있
+    
+    https://data.seoul.go.kr/dataList/OA-22166/S/1/datasetView.do
+    
+    https://data.seoul.go.kr/dataList/OA-22170/S/1/datasetView.do → 그 지역에 학교 수 초 중 고 대(얘는 건물 수로 나뉨) 로 나뉘는 데이터 및 병원 시설 정거장 지하철 역 수 도 있
+    
+    https://data.seoul.go.kr/dataList/OA-22169/S/1/datasetView.do
+    
+    https://data.seoul.go.kr/dataList/OA-22164/S/1/datasetView.do → 아파트 수
+    
+    https://data.seoul.go.kr/dataList/OA-22163/S/1/datasetView.do

@@ -1,0 +1,12 @@
+# 인증키 (절대 올리지 말 것)
+작업/api_key.txt
+api_key.txt
+
+# 원본 데이터: 용량이 커서 제외 — src/01_download.py 로 다시 받을 수 있음
+작업/data/raw/
+
+# 기타
+__pycache__/
+*.pyc
+작업/outputs/model_log.txt
+~$*
